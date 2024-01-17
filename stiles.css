@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: #0d76ee;
+	color: #272020;
+	height: 50px;
+}
+
+nav ul {
+	margin: 0;
+	margin-right: 10px;
+	padding: 0;
+	list-style: none;
+	text-align:  right;
+}
+
+nav li {
+	display: inline-block;
+	margin: 15px 20px;
+}
+
+nav a {
+	color: #272020;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+nav a:hover {
+	color: #272020;
+}
+body{
+    background-color: rgba(0, 110, 255, 0.596);
+    color: white;
+    margin: 0cm;
+}
+#descrizione{
+    float: left 250px;
+    text-align: center;
+    font-family: geneva;
+    font-size: 30px;
+    color:white;
+}
+#titolo{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+#scritte {
+    font-size: 25px;
+}
